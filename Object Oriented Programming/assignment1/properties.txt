@@ -1,0 +1,6 @@
+name=Loyal Party Supporter
+newsHeadline=Rt. Hon. Lord North calls for OUTRAGEOUS INCREASE IN TAXES on TEAR
+thisParty=Sons of Liberty
+otherParty=British
+date=May 8, 1773
+amount=1
